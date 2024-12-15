@@ -1,2 +1,2 @@
-# soudF4
+# soundF4
 develop environment for sound function
